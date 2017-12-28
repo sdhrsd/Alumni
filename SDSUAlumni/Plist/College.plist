@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>College of Arts &amp; Letters</string>
+	<string>College of Engineering</string>
+	<string>College of Business</string>
+	<string>College of Education</string>
+	<string>College of Sciences</string>
+	<string>Health &amp; Human Services</string>
+	<string>Professional Studies &amp; Fine Arts</string>
+	<string>Undergraduate Studies</string>
+	<string>Imperial Valley Campus</string>
+</array>
+</plist>
