@@ -1,6 +1,4 @@
-                                                   /* Name : Hera Siddiqui
-                                                    RedId: 819677411
-                                                    Date: 12/24/2017 */
+                                                  
 //
 //  MessageDisplayCell.swift
 //  SDSUAlumni
